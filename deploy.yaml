@@ -1,0 +1,5 @@
+jobs:
+
+- name: CoC
+  deploy:
+    contract: CoC.sol

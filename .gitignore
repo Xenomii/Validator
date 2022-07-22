@@ -1,0 +1,10 @@
+.burrow000
+.burrow001
+.keys
+account.json
+burrow000.toml
+burrow001.toml
+burrow000.log
+burrow001.log
+deploy.output.json
+genesis.json
